@@ -38,6 +38,6 @@ https://www.kaggle.com/datasets/shivamb/netflix-shows
 4. Run all cells in order
 
 ## Author
-[Your Name]
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+Syed Areeb Ali Shah
+- LinkedIn: www.linkedin.com/in/syed-areeb-ali-shah-646a79241
+- Email: sareeb608@gmail.com
